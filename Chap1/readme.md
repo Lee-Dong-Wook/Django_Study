@@ -30,6 +30,7 @@ ex) 웹 브라우저 : 웹 클라이언트
 ![example4](https://user-images.githubusercontent.com/46260504/65831820-62de1880-e2f8-11e9-8bc3-0c5bad863428.PNG)
 
 <hr>
+
 ## HTTP 프로토콜
 http는 웹 서버와 웹 클라이언트 사이에서 데이터를 주고받기 위해 사용하는 통신방식
     - 웹을 이용하려면 IP 주소를 가져야한다. 
@@ -66,7 +67,7 @@ Content-Type: application/xhtml+xml; charset=utf-8 -> 헤더<br><br>
 첫 번째 줄의 상태라인은 프로토콜 버전, 상태코드, 상태 텍스트로 구성<br>
 위 예시에서는 200 ok 이므로 정상적으로 처리 
 <hr>
-##웹 어플리케이션 서버 
+## 웹 어플리케이션 서버 
 
 ## 웹 서버와 웹 어플리케이션 서버 구분
 <br>
