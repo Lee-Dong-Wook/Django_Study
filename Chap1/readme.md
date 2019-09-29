@@ -19,7 +19,7 @@ ex) 웹 브라우저 : 웹 클라이언트
 ## Example
 
 # 웹브라우저 사용해서 요청 
-![ex_screenshot](./img/example1.png)
+<img src="./img/example1.png"></img>
 
 
 
